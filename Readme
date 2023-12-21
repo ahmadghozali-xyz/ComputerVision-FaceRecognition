@@ -1,4 +1,5 @@
 - Program ini di buat menggunakan bahasa python
-- Jika menggunakan aplikasi vs code, jangan lupa download python terlebih dahulu di aplikasi vs code
-- Copy codingan pada file face_detector dan face, lalu paste kan pada vs code, lalu compile
+- Jika menggunakan aplikasi vs code, jangan lupa install bahasa python terlebih dahulu di aplikasi vs code
+- Copy codingan pada file face_detector, lalu paste kan pada vs code, compile
 - Atau bisa juga download repo ini, lalu updload via folder 
+- Tekan "Q" untuk memberhentikan program 
